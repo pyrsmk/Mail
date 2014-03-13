@@ -56,10 +56,10 @@ class Mail extends Chernozem{
 		// Define senders/recipients
 		$headers='From: '.$this->_prepareContacts($this->from)."\r\n";
 		if($this->replyto){
-			$headers.='Reply-To: '.$this->replyto."\r\n";
+			$headers.='Reply-To: '.(string)$this->replyto."\r\n";
 		}
 		if($this->sender){
-			$headers.='Sender: '.$this->sender."\r\n";
+			$headers.='Sender: '.(string)$this->sender."\r\n";
 		}
 		if($this->cc){
 			$headers.='Cc: '.$this->_prepareContacts($this->cc)."\r\n";
