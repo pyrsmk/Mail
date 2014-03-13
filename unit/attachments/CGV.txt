@@ -1,0 +1,38 @@
+===== Article 1 - Préambule =====
+
+La souscription d'un devis ou d'une proposition commerciale emporte acceptation sans réserve des présentes conditions générales qui s'appliquent quelles que soient les options, les modules souscrits, et les modalités des travaux à réaliser. Ces conditions ont pour objet de régir le contrat conçu entre DreamySource et le client désigné par le devis, la proposition commerciale et les avenants éventuels qui y sont annexés. Celles-ci priment sur toutes autres conditions que pourrait invoquer le cocontractant et peuvent être sujettes à modifications sans préavis.
+
+===== Article 2 - Devis =====
+
+  - signé, il fera office de contrat entre les parties; celui-ci ne pourrait être soumis à modifications; si un tel recours s'averrait nécessaire un deuxième devis serait alors réalisé
+  - il reprendra en détail toutes les étapes de la réalisation de la prestation en signalant le temps envisagé pour chacune des étapes et leurs prix
+  - il peut faire l'objet de plusieurs facturations
+
+===== Article 3 - Facturation =====
+
+  - la facturation a lieu lorsque le travail a été validé par le client
+  - tous les tarifs sont indiqués en euros et, DreamySource étant soumise au régime fiscal de la micro-entreprise, la TVA est non applicable conformément à l’article 293B du CGI
+  - un acompte de 30% pourra être demandé et sera versé à la signature du devis par le client; ce versement déclenchera alors les travaux
+  - tout retard de paiement au-delà d'un mois donnera lieu de plein droit à une majoration de 10% par mois de retard des sommes dues à la date de facturation
+  - si un contrat se voyait résilié par l'une des deux parties, toutes les étapes réalisées du devis seraient facturées
+
+===== Article 4 - Réalisation =====
+
+  - la mise en place des noms de domaines et de l'hébergement pourra être pris directement en charge par DreamySource mais les charges afférentes incomberont au client qui devra faire parvenir les renseignements nécessaires pour la bonne mise en place de ces services, tels des coordonnées bancaires <=== à revoir, demander à Corentin
+  - DreamySource se réserve le droit de réclamer toutes données utiles au bon déroulement du projet telles le cahier des charges ou des fichiers
+  - si des documents primordiaux à l'élaboration du projet venaient à manquer, DreamySource se verrait dans l'obligation de résilier le contrat
+
+===== Article 5 - Propriété =====
+
+  - une clause de confidentialité pourra être mise en place avec accord des parties et prendra effet à la signature du contrat, celle-ci sera signalée explicitement et prévaudra sur tout paragraphe du présent article
+  - Lumy est un outil de développement créé par et pour DreamySource, il est donc seul propriétaire du framework, hormis les librairies, classes, et tout autre fichier le composant soumis à une licence spécifiant le contraire
+  - la réalisation finale est propriété des cocontractants, DreamySource peut donc réutiliser certaines parties des fichiers utilisés pour d'autres prestations dans la limite de la non réutilisation partielle ou globale de la spécificité du produit développé, comme la charte graphique ou des fonctionnalités spécifiques
+  - le client sera seul habilité à poursuivre l'utilisation et l'hébergement de son produit
+  - le client autorise expressément DreamySource à citer le nom du service élaboré par ses soins dans son portfolio et à citer le nom de l'entreprise sur le produit réalisé
+
+===== Article 6 - Responsabilité =====
+
+  - le client étant seul responsable du contenu de l'information accessible sur les produits conçus et élaborés par DreamySource, il déclare être titulaire de l'intégralité des droits de propriété industrielle et de propriété intellectuelle pouvant porter sur leurs contenus
+  - du fait des caractéristiques et limites des réseaux et de l'informatique, que le client déclare parfaitement connaître, DreamySource ne saurait voir sa responsabilité engagée pour, entre autres, les difficultés d'accès aux sites concernés, la contamination par virus des données ou logiciels du client dont la protection incombe à ce dernier, des intrusions malveillantes, des détournements de mots de passe et codes confidentiels
+  - le client ne doit utiliser les services de DreamySource que dans la poursuite de buts légaux, en conséquence il s'engage à respecter l'ensemble de la réglementation applicable à la diffusion d'informations et de services sur internet, ceci inclut notamment le respect des droits d'auteurs, la proscription de documents contraires aux bonnes moeurs et à l'ordre public
+  - les présentes conditions générales étant régies par les lois françaises, tout litige relatif à l'exécution ou à l'interprétation de celles-ci, que les parties n'auront pu résoudre à l'amiable, sera de la compétence exclusive du Tribunal de Commerce d'Angers

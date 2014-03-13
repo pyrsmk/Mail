@@ -1,0 +1,46 @@
+[
+    {
+        "name": "pyrsmk/chernozem",
+        "version": "3.0.0",
+        "version_normalized": "3.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pyrsmk/Chernozem.git",
+            "reference": "9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pyrsmk/Chernozem/zipball/9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd",
+            "reference": "9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2014-02-25 11:12:59",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Aurélien Delogu",
+                "email": "dev@dreamysource.fr",
+                "homepage": "http://dreamysource.fr"
+            }
+        ],
+        "description": "An advanced dependency injection container",
+        "keywords": [
+            "container",
+            "dependency",
+            "injection"
+        ]
+    }
+]
