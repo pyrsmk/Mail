@@ -1,4 +1,4 @@
-Mail 0.6.0
+Mail 0.6.1
 ==========
 
 Mail is a small library that aims to provide a light and simple mail implementation.
@@ -43,7 +43,6 @@ It will be shown like this : `Lionel McGonagall <from@example.org>`.
 Sending to more than one recipient works the same way :
 
 ```php
-// Also works with 'cc' and 'bcc' options
 $mail['to']=array(
     'Peter' => 'peter@another-site.org',
     'Anaïs' => 'anais@wonderful.net',
@@ -51,7 +50,12 @@ $mail['to']=array(
 );
 ```
 
-Please not that syntax works for `to`, `sender`, `replyto`, `cc` and `bcc` options too.
+That syntax works for `cc` and `bcc` parameters too. Note that `sender` and `replyto` are accessible too but only with the simple `email` syntax :
+
+```php
+$mail['sender']='peter@another-site.org';
+$mail['replyto']='anais@wonderful.net';
+```
 
 Sending a more complex e-mail
 -----------------------------
