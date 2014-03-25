@@ -1,6 +1,6 @@
 {
 	"name": "pyrsmk/mail",
-	"description": "A simple mail object",
+	"description": "A simple mail sender",
 	"keywords": ["mail"],
 	"license": "MIT",
 	"authors": [{
