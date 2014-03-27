@@ -87,4 +87,4 @@ else{
 License
 -------
 
-MIT in your face.
+[MIT](http://dreamysource.mit-license.org) in your face.
