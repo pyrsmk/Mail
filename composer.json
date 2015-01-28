@@ -1,7 +1,7 @@
 {
 	"name": "pyrsmk/mail",
 	"description": "A simple mail sender",
-	"keywords": ["mail"],
+	"keywords": ["mail","send","smtp","sending","sender"],
 	"license": "MIT",
 	"authors": [{
 		"name": "Aurélien Delogu",
