@@ -11,7 +11,7 @@ You can download the class files (located in `src/`) or install it with [Compose
 ```json
 {
     "require": {
-        "pyrsmk/mail": "0.6.*"
+        "pyrsmk/mail": "~0.6"
     }
 }
 ```
