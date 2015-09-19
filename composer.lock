@@ -1,22 +1,24 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "79d83286996fcfc30ea8e4c8a25eda61",
+    "hash": "7444266a1d71697fd59ba4c19e839731",
+    "content-hash": "e0219fc61ea708772cccf23e17bed3fc",
     "packages": [
         {
             "name": "pyrsmk/chernozem",
-            "version": "3.0.0",
+            "version": "3.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pyrsmk/Chernozem.git",
-                "reference": "9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd"
+                "reference": "d39ffb4122f2a7d918cf491681d4691878d37a93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pyrsmk/Chernozem/zipball/9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd",
-                "reference": "9d78e7e2fcc9052d6a990356c9f0bb84748fb4cd",
+                "url": "https://api.github.com/repos/pyrsmk/Chernozem/zipball/d39ffb4122f2a7d918cf491681d4691878d37a93",
+                "reference": "d39ffb4122f2a7d918cf491681d4691878d37a93",
                 "shasum": ""
             },
             "require": {
@@ -45,23 +47,17 @@
                 "dependency",
                 "injection"
             ],
-            "time": "2014-02-25 11:12:59"
+            "time": "2015-09-19 18:17:44"
         }
     ],
-    "packages-dev": [
-
-    ],
-    "aliases": [
-
-    ],
+    "packages-dev": [],
+    "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.0"
+    },
+    "platform-dev": []
 }

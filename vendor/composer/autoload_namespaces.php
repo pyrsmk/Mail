@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'MiniSuite' => array($vendorDir . '/pyrsmk/minisuite/src'),
+    '' => array($baseDir . '/src', $vendorDir . '/pyrsmk/chernozem/src'),
 );
