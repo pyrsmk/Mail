@@ -6,14 +6,10 @@ Mail is a small library that aims to provide a light and simple mail implementat
 Installing
 ----------
 
-You can download the class files (located in `src/`) or install it with [Composer](https://getcomposer.org/) :
+Pick up the source or install it with [Composer](https://getcomposer.org/) :
 
 ```json
-{
-    "require": {
-        "pyrsmk/mail": "~0.6"
-    }
-}
+composer require pyrsmk/mail
 ```
 
 Sending a basic e-mail
