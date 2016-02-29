@@ -1,4 +1,4 @@
-Mail 0.6.6
+Mail 0.6.7
 ==========
 
 Mail is a small library that aims to provide a light and simple mail implementation.
