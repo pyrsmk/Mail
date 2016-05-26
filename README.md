@@ -1,4 +1,4 @@
-Mail 0.6.7
+Mail 0.6.8
 ==========
 
 Mail is a small library that aims to provide a light and simple mail implementation.
@@ -8,7 +8,7 @@ Installing
 
 Pick up the source or install it with [Composer](https://getcomposer.org/) :
 
-```json
+```
 composer require pyrsmk/mail
 ```
 
